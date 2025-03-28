@@ -23,8 +23,7 @@ Let’s look at the individual components to identify similar proteins:
 Services Created in Snowpark Container Services
 
 After all the steps are complete, we then visualize the proteins in the Streamlit UI that runs in Snowpark Container Services as shown below:
-
-[![Watch the video](https://img.youtube.com/vi/csC7Hnps480/sddefault.jpg)](https://www.youtube.com/watch?v=csC7Hnps480)
+[![YouTube](http://i.ytimg.com/vi/csC7Hnps480/hqdefault.jpg)](https://www.youtube.com/watch?v=csC7Hnps480)
 
 
 Streamlit UI running in Snowpark Container Services
