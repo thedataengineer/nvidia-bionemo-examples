@@ -9,3 +9,5 @@ NVIDIA NIM offers a set of optimized microservices for AI models used in drug di
 To get started with **NVIDIA NIMs**, see the set of example [NIM workflows](examples/nims).
 
 To get started with **NIM Agent Blueprints**, see the [blueprint examples](examples/blueprints).
+
+To look at my example: see [examples/karteek](examples/karteek)
