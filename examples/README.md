@@ -20,8 +20,6 @@ Let’s look at the individual components to identify similar proteins:
 2.  **Identification of similar proteins:** Using the h5 file that is generated for the base proteins, we used Snowflake Vector Search pre-built function to identify the Top 3 matching proteins in the PROTEINS table.
 3.  **BioNeMo Service Inference:** To visualize each protein, we made synchronous and asynchronous calls (based on the size of the protein) to the [BioNemo Python client](https://pypi.org/project/bionemo/) to generate PDB files for each protein structure and stored the files in a stage location. (You will need a BioNeMo API key to use the Python client.)
 
-Here is a notebook demonstrating these steps: [https://github.com/edemiraydin/protein\_similarity/blob/main/ProtT5-Embeddings.ipynb](https://github.com/edemiraydin/protein_similarity/blob/main/ProtT5-Embeddings.ipynb)
-
 Services Created in Snowpark Container Services
 
 After all the steps are complete, we then visualize the proteins in the Streamlit UI that runs in Snowpark Container Services as shown below:
