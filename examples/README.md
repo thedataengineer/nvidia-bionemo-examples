@@ -24,7 +24,7 @@ Services Created in Snowpark Container Services
 
 After all the steps are complete, we then visualize the proteins in the Streamlit UI that runs in Snowpark Container Services as shown below:
 
-[![Watch the video](https://img.youtube.com/vi/csC7Hnps480/sddefault.jpg)](https://youtu.be/csC7Hnps480)
+[![Watch the video](https://img.youtube.com/vi/csC7Hnps480/sddefault.jpg)](https://www.youtube.com/watch?v=csC7Hnps480)
 
 
 Streamlit UI running in Snowpark Container Services
